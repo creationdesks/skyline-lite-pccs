@@ -23,33 +23,33 @@
 					<div class="kb-bgdesc">
 						<p style="text-align:center;"></p>
 						<a href="#"><img src="/wp-content/uploads/2018/06/logo-bw2.png" alt="" width="336" height="32" class="aligncenter size-full" /></a><p></p>
-						<p class="footer-text">PCCS Group Limited</p>
+						<p class="footer-text">Skyline Lite</p>
 						<div class="add-bar-footer">
 							<div class="row">
 								<div class="col-md-12">
-									<p class="footer-text">The Pyramid, Brixworth Technology Park, Quarry Road, Brixworth, <br/>Northamptonshire, NN6 9UB.</p>
+									<p class="footer-text"></p>
 								</div>
 							</div>
 						</div>
 						<div class="add-bar-footer">
 							<div class="row">
 								<div class="col-md-4">
-									<p class="footer-text"><i class="fa fa-phone" aria-hidden="true"></i> 01604 968938</p>
+									<p class="footer-text"><i class="fa fa-phone" aria-hidden="true"></i> </p>
 								</div>
 								<div class="col-md-4">
-									<p class="footer-text"><i class="fa fa-edge" aria-hidden="true"></i> www.skylinelite.co.uk</p>
+									<p class="footer-text"><i class="fa fa-edge" aria-hidden="true"></i> </p>
 								</div>
 								<div class="col-md-4">
-									<p class="footer-text"><i class="fa fa-envelope" aria-hidden="true"></i> contact@pccsuk.com</p>
+									<p class="footer-text"><i class="fa fa-envelope" aria-hidden="true"></i> contact@skyline.com</p>
 								</div>
 							</div>
 						</div>
 						<hr class="footer-div">
 						<div class="social-icons">
-							<a href="https://www.facebook.com/skylinelite" target="_blank">
+							<a href="#" target="_blank">
 								<span class="fa fa-facebook"></span>
 							</a>
-							<a href="https://twitter.com/SoftwareSkyline" class="" target="_blank">
+							<a href="#" class="" target="_blank">
 								<span class="fa fa-twitter"></span>
 							</a>
 							<a href="" class="" target="_blank">
