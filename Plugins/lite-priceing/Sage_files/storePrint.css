@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* shop.sage.co.uk */
+/* print */
+html {background-color:#fff;}
+body {
+	font-size:70%;
+	background-color:#fff;
+	color: #675c53;
+}
+.topNav li a {
+    color: #ccc;
+    padding-left: 7px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+#footer a {
+    color: #ccc;
+}
+#linesContainer {
+    border-left: none;
+    border-right: none;
+
+}
+#linesContainerTop {
+    background: none;
+}
+#linesContainerBottom {
+    background: none;
+}
+
+.sageLogo {
+	background:url(/images/sageLogo.png) no-repeat;
+}
+#footer h6.copyright {
+    background: url("/images/sageLogo.png") no-repeat scroll 0 0 transparent;
+ 
+}
+#ob_checkout_status {
+	display:none;
+}
+.size220 {
+	display:none;
+}
+#header {
+	display:none;
+}
+.menu {
+	display:none;
+}
+#footer {
+	display:none;
+}
+.ob_logo {
+    
+    margin: 50px 100px 0 0;
+
+}
